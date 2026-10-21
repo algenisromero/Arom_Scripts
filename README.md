@@ -1,3 +1,4 @@
 # Multiple useful scripts
+-------------------------
 
-This repo contains few scripts created by me for automate few repetitive task during my workflow or during my studies. 
+Scripts created by __Arom Infosec__ for automate some repetitive task during my workflows or during my studies.
